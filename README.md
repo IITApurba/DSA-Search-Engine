@@ -11,7 +11,7 @@
 
 ## 🔍 Live Demo
 
-> 🚀 [https://dsa-search-engine.onrender.com](https://dsa-search-engine.onrender.com)  
+> 🚀 [https://dsa-search-engine-r4il.onrender.com](https://dsa-search-engine-r4il.onrender.com)  
 > _(Deployed on Render)_
 
 ---
@@ -25,7 +25,7 @@ A fully functional **DSA (Data Structures & Algorithms) Problem Search Engine** 
 - Clean UI using EJS + Vanilla JS
 - Node.js backend using Express
 
-Search over **3,000+ competitive programming problems** from LeetCode, InterviewBit, and TechDelight by typing natural phrases like:
+Search over **3,500+ competitive programming problems** from LeetCode, InterviewBit, and TechDelight by typing natural phrases like:
 
 > - “Two sum”
 > - “Maximum k sum pairs”
@@ -61,7 +61,7 @@ Search over **3,000+ competitive programming problems** from LeetCode, Interview
 ## 📦 Getting Started (Local Setup)
 
 ```bash
-git clone https://github.com/yourusername/dsa-search-engine.git
+git clone https://github.com/IITApurba/DSA-Search-Engine.git
 cd dsa-search-engine
 npm install
 npm start
